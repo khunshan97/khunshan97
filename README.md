@@ -12,8 +12,8 @@
 
 
 
-- 🔭 I’m currently working on MERN Stack
-- 🌱 I’m currently learning Gatsby
+- 🔭 I’m currently working on Python/Django
+- 🌱 I’m currently learning REACT
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
