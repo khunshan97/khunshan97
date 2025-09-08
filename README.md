@@ -1,14 +1,3 @@
-<h1 align="center">Hey, I'm Khunshan</h1>
-
-<p align="center">
-    <a href="https://www.linkedin.com/in/khunshan-butt/"><img alt="LinkedIn" src="https://img.shields.io/badge/connect-khunshan_butt-green?logo=linkedin&style=for-the-badge"></a>
-    <a href="https://twitter.com/khunshan97"><img alt="Twitter" src="https://img.shields.io/badge/follow-@khunshan97-green?logo=twitter&style=for-the-badge"></a>
-</p>
-
-<hr>
-
-***
-
 # Khunshan Butt
 
 
@@ -22,22 +11,37 @@ My work blends technical excellence with business impact, optimizing performance
 
 ***
 
-## 🛠️ Skills
+## 🛠️ I code with
 
-**Core Competencies:**
-Software Development | Backend Engineering | API Integration | Problem Solving | DevOps | Agile Methodologies | Project Leadership
-
-**Programming \& Web:**
-Python | Django | Flask | JavaScript | React | Node | Vue | Rust | Go | HTML | CSS
-
-**Databases:**
-PostgreSQL | MySQL | SQL Server | SQLite | MongoDB
-
-**DevOps \& Deployment:**
-AWS | DigitalOcean | CI/CD Pipelines | Docker | Netlify | GitHub Pages
-
-**Other Tools:**
-Jira | Trello | GitHub | Figma | Stripe API | Google Maps API | Pandas | NumPy | Twilio | Django DRF
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  /><img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="35" alt="django logo"  /><img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="35" alt="flask logo"  /><img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="35" alt="fastapi logo"  /><img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="35" alt="nginx logo"  /><img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo"  /><img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="35" alt="sqlite logo"  /><img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  /><img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  /><img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo"  /><img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  /><img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css logo"  /><img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  /><img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="35" alt="googlecloud logo"  /><img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="35" alt="amazonwebservices logo" />  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="35" alt="digitalocean logo"  /><img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker logo"  /><img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="35" alt="go logo"  /><img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="cplusplus logo"  /><img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="35" alt="dot-net logo"  /><img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="35" alt="android logo"  /><img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="linux logo"  /><img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="35" alt="raspberrypi logo"  /><img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="35" alt="arduino logo"  /><img width="12" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="35" alt="intellij logo"  /><img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="35" alt="pycharm logo"  /><img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
+</div>
 
 ***
 
@@ -52,7 +56,7 @@ _Sept 2023 – Present_
 - Ensured all milestones were delivered to 100% client satisfaction, enabling ongoing and recurring business.
 
 
-### The BeeLogix, Lahore, Pakistan — _Python Developer_
+### The BeeLogix — _Python Developer_
 
 _Sept 2022 – Aug 2023_
 
@@ -61,7 +65,7 @@ _Sept 2022 – Aug 2023_
 - Increased search performance and user satisfaction through data and feedback-driven improvements.
 
 
-### CoalDev, Remote, Pakistan — _Software Engineer_
+### CoalDev — _Software Engineer_
 
 _May 2022 – Aug 2022_
 
@@ -69,7 +73,7 @@ _May 2022 – Aug 2022_
 - Leveraged AI tools and modern frameworks for rapid, reliable deployments and efficient SDLC.
 
 
-### Phaedra Solutions, Lahore, Pakistan — _Python Developer_
+### Phaedra Solutions — _Python Developer_
 
 _Jul 2020 – May 2022_
 
@@ -123,10 +127,7 @@ _2020_
 Open to new projects, collaborations, and technical discussions.
 
 - Email: [khunshanbutt7@gmail.com](mailto:khunshanbutt7@gmail.com)
-- Location: Brunswick West, VIC, Australia
+- Location: Melbourne, VIC, Australia
 - LinkedIn: [Khunshan Butt](https://www.linkedin.com/in/khunshan-butt/)
-
-Thank you for stopping by my portfolio!
-*References and further career history available upon request.*
 
 ***
